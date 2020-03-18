@@ -8,4 +8,4 @@ def parrot(speak = "Squawk!")
 end
 
 # Testing method with an argument
-# parrot("Heyo")
+parrot("Heyo")
