@@ -3,8 +3,8 @@
 # The return value of #puts is nil.
 
 def parrot(speak = "Squawk!")
-  # puts speak
-  return speak
+  puts speak
+  # return speak
 end
 
 # Testing method with an argument
