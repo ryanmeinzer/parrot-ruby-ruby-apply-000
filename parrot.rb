@@ -3,7 +3,7 @@
 
 def parrot(speak = "Squawk!")
   puts speak
-  return speak
+  return parrot
 end
 
 # Testing method with an argument
