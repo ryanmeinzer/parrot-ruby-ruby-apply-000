@@ -3,7 +3,7 @@
 # The return value of #puts is nil.
 
 def parrot(speak = "Squawk!")
-  puts speak
+  # puts speak
   # return speak
 end
 
