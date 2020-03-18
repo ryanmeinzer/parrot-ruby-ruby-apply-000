@@ -4,8 +4,8 @@
 
 def parrot(speak = "Squawk!")
   puts speak
-  # return speak
+  return speak
 end
 
 # Testing method with an argument
-parrot
+# parrot("Heyo")
